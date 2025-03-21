@@ -1,0 +1,16 @@
+```plaintext
+# Ignorar arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignorar arquivos de ambiente virtual
+venv/
+env/
+
+# Ignorar arquivos de IDE
+.vscode/
+.idea/
