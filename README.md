@@ -54,7 +54,7 @@ Este projeto é um sistema de gerenciamento de notas de estudantes desenvolvido 
 <ul>
   <li>Interface Gráfica:
     <ul>
-      <li>Desenvolvida com `tkinter`.</li>
+      <li>Desenvolvida com tkinter.</li>
       <li>Inclui campos para inserir nome e notas, botões para adicionar/remover estudantes e uma lista para exibir o ranking.</li>
     </ul>
   </li>
